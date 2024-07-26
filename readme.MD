@@ -1,6 +1,6 @@
 ## Interview Technical
 
-### 1. Use `docker compose up` to start mongo container
+### 1. Use `docker compose up` to start local MongoDB container
 ### 2. Compile and run Springboot application via maven
 ### 3. cURL commands to `localhost:8080` will invoke HelperService `print1()` and `print2()`
 
